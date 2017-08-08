@@ -1,0 +1,10 @@
+big
+large
+small
+little
+huge
+long
+tall
+short
+wide
+narrow
