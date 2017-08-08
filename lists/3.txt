@@ -8,3 +8,5 @@ tall
 short
 wide
 narrow
+broad
+flat

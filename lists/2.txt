@@ -2,3 +2,10 @@ good
 bad
 ugly
 pretty
+adorable
+beautiful
+clean
+drab
+elegant
+fancy
+glamorous

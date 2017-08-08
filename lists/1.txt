@@ -24,3 +24,5 @@ sixty
 seventy
 eighty
 ninety
+few
+many

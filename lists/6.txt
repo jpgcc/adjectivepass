@@ -10,3 +10,4 @@ green
 blue
 golden
 silver
+purple
