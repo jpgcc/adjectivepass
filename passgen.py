@@ -1,6 +1,6 @@
 import random
 
-number_of_adjective_lists = 7
+number_of_adjective_lists = 8
 number_of_adjectives = 3
 
 prev = 0
@@ -12,8 +12,9 @@ prev = 0
 # 4: Age
 # 5: Shape
 # 6: Color
-# 7: Proper adjective (often nationality, other place of origin, or material)
-# 8 (todo): Purpose or qualifier
+# 7: Origin
+# 8: Material
+# 9 (todo): Purpose or qualifier
 # nouns: plural nouns
 
 expression = []
